@@ -1,6 +1,5 @@
 const inquire = require("inquirer");
 const mysql = require("mysql2");
-const cfonts = require('cfonts');
 
 const db = mysql.createConnection({
   host: "127.0.0.1",
