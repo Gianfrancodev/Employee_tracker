@@ -13,7 +13,7 @@ GitHub Repository Link - https://github.com/Gianfrancodev/Employee_tracker
 
 For installation please clone code to terminal and install inquirer and mysql.
 
-(castify weblink) 
+[Employee Tracker Video](https://drive.google.com/file/d/1vgyduc1ThTJQNTTpsfNDmY706XYat9Ym/view) 
 
 
 ## Usage
